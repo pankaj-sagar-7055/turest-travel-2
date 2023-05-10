@@ -199,6 +199,18 @@
     color: var(--black-coral);
     font-size: var(--fs-5);
   }
+  .set{
+    margin: 12px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    background: url(img/nature.avif);
+  }
+
+  .set a{
+    padding: 5px;
+    margin: 2px;
+  }
   
   
   
@@ -485,6 +497,8 @@
     padding: 20px;
   }
   
+
+  
   
   .popular-card .card-rating {
     background: var(--bright-navy-blue);
@@ -662,7 +676,6 @@
     height: 100%;
     object-fit: cover;
   }
-  
   
   
   
@@ -877,6 +890,7 @@
     section:not(.cta) :is(.section-subtitle, .section-title, .section-text) {
       text-align: center;
     }
+    
   
     .section-text { margin-bottom: 40px; }
   
@@ -901,6 +915,14 @@
     .header .btn {
       --fs-5: 14px;
       --padding: 6px 20px;
+    }
+  
+     .color{
+      background: url(img/nature.avif);
+      border-radius: 10%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
     }
   
   
