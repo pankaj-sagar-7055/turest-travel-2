@@ -123,7 +123,7 @@
   
   body { background: var(--white); }
   
-  
+
   
   
   
@@ -210,6 +210,13 @@
   .set a{
     padding: 5px;
     margin: 2px;
+  }
+
+  .container .rotate{
+    /* background-color: #088178; */
+    color: red;
+    font-size: 30px;
+  
   }
   
 
@@ -483,7 +490,7 @@
   \*-----------------------------------*/
   
   .hero {
-    background-image: url("img/hero-banner.jpg");
+    background-image: url("img/westernbackground\ image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

@@ -21,6 +21,7 @@ const navToggleEvent = function (elem) {
   }
 }
 
+
 navToggleEvent(navElemArr);
 navToggleEvent(navLinks);
 
