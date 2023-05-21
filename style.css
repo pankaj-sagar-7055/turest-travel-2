@@ -20,11 +20,11 @@
      * colors
      */
   
-    --united-nations-blue: hsl(214, 56%, 58%);
+    --united-nations-blue: hsl(214, 61%, 55%);
     --bright-navy-blue: hsl(214, 57%, 51%);
     --spanish-gray: hsl(0, 0%, 60%);
-    --black-coral: hsl(225, 8%, 42%);
-    --oxford-blue: hsl(208, 97%, 12%);
+    --black-coral: hsl(225, 7%, 36%);
+    --oxford-blue: hsl(207, 46%, 25%);
     --yale-blue: hsl(214, 72%, 33%);
     --blue-ncs: hsl(197, 100%, 36%);
     --gunmetal: hsl(206, 34%, 20%);
@@ -214,7 +214,7 @@
 
   .container .rotate{
     /* background-color: #088178; */
-    color: red;
+    color: rgb(198, 59, 20);
     font-size: 30px;
   
   }
